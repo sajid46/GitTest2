@@ -1,3 +1,2 @@
 First line
 2nd line added inside child1 branch
-3rdline added inside master branch
